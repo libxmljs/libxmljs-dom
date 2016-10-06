@@ -13,7 +13,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/rchipka/node-libxmljs-dom.git"
+        "url": "https://github.com/libxmljs/libxmljs-dom.git"
     },
     "author": {
         "name": "rchipka",
@@ -37,6 +37,6 @@
     },
     "readmeFilename": "Readme.md",
     "bugs": {
-        "url": "https://github.com/rchipka/node-libxmljs-dom/issues"
+        "url": "https://github.com/libxmljs/libxmljs-dom/issues"
     }
 }
