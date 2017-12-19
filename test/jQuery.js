@@ -9,5 +9,7 @@ var $ = doc.defaultView.$;
 
 module.exports.select = function(assert) {
     assert.ok($('#only').length === 1)
+    assert.ok($('.only').length === 1)
+    assert.ok($('li[only="true"]').length === 1)
     assert.done();
 }
