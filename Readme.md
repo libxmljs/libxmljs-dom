@@ -8,18 +8,21 @@ A simple DOM wrapper for libxmljs.
 
 ## Install
 
-```
-npm install libxmljs-dom
-```
+> $ npm install libxmljs-dom
+
 
 ## Documentation
 
-For documentation and examples check out [https://github.com/rchipka/libxmljs-dom/wiki](https://github.com/rchipka/libxmljs-dom/wiki)
+For documentation and examples check out [Github.com/rchipka/libxmljs-dom/wiki](https://github.com/rchipka/libxmljs-dom/wiki).
+
+Also check [Css2xpath.github.io](http://css2xpath.github.io/) for help with CSS/XPath selectors.
+
 
 ## Contribute
 
 This package needs comprehensive test coverage to ensure standards compliance.
 Please include [compliance tests](https://dom.spec.whatwg.org/) for any added functionality.
+
 
 ## Dependencies
 
