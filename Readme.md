@@ -1,4 +1,4 @@
-#libxmljs-dom
+# libxmljs-dom
 
 A simple DOM wrapper for libxmljs.
 
@@ -6,21 +6,21 @@ A simple DOM wrapper for libxmljs.
 
 [![Build Status](https://travis-ci.org/libxmljs/libxmljs-dom.svg)](https://travis-ci.org/libxmljs/libxmljs-dom)
 
-##Install
+## Install
 
 ```
 npm install libxmljs-dom
 ```
 
-##Documentation
+## Documentation
 
-For documentation and examples check out [https://github.com/libxmljs/libxmljs-dom/wiki](https://github.com/libxmljs/libxmljs-dom/wiki)
+For documentation and examples check out [https://github.com/rchipka/libxmljs-dom/wiki](https://github.com/rchipka/libxmljs-dom/wiki)
 
-##Contribute
+## Contribute
 
 This package needs comprehensive test coverage to ensure standards compliance.
 Please include [compliance tests](https://dom.spec.whatwg.org/) for any added functionality.
 
-##Dependencies
+## Dependencies
 
 - [libxmljs](https://github.com/libxmljs/libxmljs) - libxml C bindings
