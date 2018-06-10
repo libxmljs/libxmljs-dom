@@ -21,7 +21,7 @@
     },
     "dependencies": {
         "needle": ">=0.9.2",
-        "libxmljs": "^0.18.9",
+        "libxmljs": "^0.18.9-pre0",
         "css2xpath": "0.0.1"
     },
     "devDependencies": {
