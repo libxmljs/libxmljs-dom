@@ -1,6 +1,6 @@
 {
     "name": "libxmljs-dom",
-    "version": "0.0.13",
+    "version": "0.0.14",
     "description": "DOM wrapper for libxmljs",
     "keywords": [
         "dom",
