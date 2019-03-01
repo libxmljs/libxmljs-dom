@@ -8,6 +8,7 @@ var libxmljs    = require('libxmljs'),
     XMLElement  = libxmljs.Element.prototype;
 
 libxmljs.log = console.log;
+libxmljs.error = console.error || console.log;
 
 libxmljs.css2xpath = css2xpath;
 
