@@ -7,6 +7,8 @@ var libxmljs    = require('libxmljs'),
     XMLDocument = libxmljs.Document.prototype,
     XMLElement  = libxmljs.Element.prototype;
 
+libxmljs.log = console.log;
+
 libxmljs.css2xpath = css2xpath;
 
 extend(Window.prototype, EventTarget);
