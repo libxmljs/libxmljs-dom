@@ -1,6 +1,6 @@
 'use strict';
 
-var libxmljs    = require('libxmljs'),
+var libxmljs    = require('libxmljs2'),
     css2xpath   = require('css2xpath'),
     EventTarget = require('./lib/EventTarget.js'),
     Window      = require('./lib/Window.js')(libxmljs),
