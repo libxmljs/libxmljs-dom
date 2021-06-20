@@ -20,9 +20,9 @@
         "email": "chipka01@email.franklin.edu"
     },
     "dependencies": {
-        "needle": "^1.6.0",
-        "libxmljs2": "^0.26.1",
-        "css2xpath": "0.0.1"
+        "css2xpath": "0.0.1",
+        "libxmljs2": "^0.27.0",
+        "needle": "^2.6.0"
     },
     "devDependencies": {
         "nodeunit": "0.9.0"
